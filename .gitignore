@@ -1,0 +1,4 @@
+# Data files — download from Kaggle (see DATA_SOURCE.md)
+*.csv
+*.xlsx
+*.xls
